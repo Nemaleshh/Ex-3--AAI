@@ -1,6 +1,6 @@
 <H3>Name : Nemaleshwar H</H3>
 <H3>Register No : 212223230142</H3>
-<H3>Experiment : 2</H3>
+<H3>Experiment : 3</H3>
 <H3>Date : 2/05/2025</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
